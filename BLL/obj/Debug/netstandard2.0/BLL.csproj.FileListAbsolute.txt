@@ -1,0 +1,11 @@
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.pdb

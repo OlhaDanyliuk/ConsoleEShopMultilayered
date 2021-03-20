@@ -1,0 +1,16 @@
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.csprojAssemblyReference.cache
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.AssemblyInfoInputs.cache
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.AssemblyInfo.cs
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.exe
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.deps.json
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.runtimeconfig.json
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.runtimeconfig.dev.json
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\UIL.pdb
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\BLL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\DAL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.csproj.CopyComplete
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.dll
+D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\ShopMVC\obj\Debug\netcoreapp3.1\UIL.pdb
