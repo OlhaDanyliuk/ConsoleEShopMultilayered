@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study\\Epam\\Projects\\Task16_Shop_MultilayredArchitecture\\ShopMVC\\ShopMVC\\UIL.csproj",
+      "projectUniqueName": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\ShopMVC\\UIL.csproj",
       "projectName": "UIL",
-      "projectPath": "D:\\study\\Epam\\Projects\\Task16_Shop_MultilayredArchitecture\\ShopMVC\\ShopMVC\\UIL.csproj",
+      "projectPath": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\ShopMVC\\UIL.csproj",
       "packagesPath": "C:\\Users\\olha0\\.nuget\\packages\\",
-      "outputPath": "D:\\study\\Epam\\Projects\\Task16_Shop_MultilayredArchitecture\\ShopMVC\\ShopMVC\\obj\\",
+      "outputPath": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\ShopMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,13 +65,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\study\\Epam\\Projects\\Task16_Shop_MultilayredArchitecture\\ShopMVC\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\study\\Epam\\Projects\\Task16_Shop_MultilayredArchitecture\\ShopMVC\\BLL\\BLL.csproj"
+            "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\BLL\\BLL.csproj"
             }
           }
         }
@@ -84,6 +86,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -94,12 +97,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.113\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

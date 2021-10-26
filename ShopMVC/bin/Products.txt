@@ -1,0 +1,5 @@
+0,IPhone12,Smartphones,Apple iPhone 12 Pro Max 256 GB Pacific Blue,44444
+1,Cup,Dishes,Red coffe cup 200 ml,50
+2,Cheese,Food,Fresh Mozzarella Cheese 400gram,70
+3,Ukraiiner,Books,A book based on the first round of a large-scale expedition to Ukraine,350
+4,Drymba,Music,Hutsul drymba,200

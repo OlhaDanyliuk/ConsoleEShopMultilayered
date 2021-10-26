@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/ARatczucauw5MI/0/Lbo9mgHhhahnnzGgw6QhtvF1F8M0GeLe9Lxm3eBYDmuYi8ThPg7hFAnFVUkc3iaa+cw==",
+  "success": true,
+  "projectFilePath": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olha0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\olha0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

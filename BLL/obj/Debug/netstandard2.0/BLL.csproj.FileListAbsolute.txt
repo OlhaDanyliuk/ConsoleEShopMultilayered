@@ -9,3 +9,15 @@ D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\bin\Debug
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.dll
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\BLL\obj\Debug\netstandard2.0\BLL.pdb
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.csproj.AssemblyReference.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\BLL\obj\Debug\netstandard2.0\BLL.pdb
