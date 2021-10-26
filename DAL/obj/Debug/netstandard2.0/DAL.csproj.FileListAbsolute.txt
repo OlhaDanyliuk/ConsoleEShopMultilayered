@@ -6,3 +6,12 @@ D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\bin\Debug
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\bin\Debug\netstandard2.0\DAL.pdb
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\obj\Debug\netstandard2.0\DAL.dll
 D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\obj\Debug\netstandard2.0\DAL.pdb
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\study\Epam\LABA\VS Projects\ConsoleEShopMultilayered\DAL\obj\Debug\netstandard2.0\DAL.pdb

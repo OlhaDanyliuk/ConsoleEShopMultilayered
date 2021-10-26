@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xp+1ePpHjawKh3q0KffPzArbaMBIbv3Wa0qHnhKNXrhjUuhplb45mbycIcBV1BfFLgap4kdTPO/lOH8o9PB4ww==",
+  "success": true,
+  "projectFilePath": "D:\\study\\Epam\\LABA\\VS Projects\\ConsoleEShopMultilayered\\ShopMVC\\UIL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olha0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

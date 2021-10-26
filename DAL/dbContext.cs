@@ -13,12 +13,16 @@ namespace DAL
         public ProductRepository productRepository { get; }
         public OrderRepository orderRepository { get; }
 
-        private string users_file_path= @"D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\Users.txt";
-        private string products_file_path= @"D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\Products.txt";
-        private string orders_file_path=@"D:\study\Epam\Projects\Task16_Shop_MultilayredArchitecture\ShopMVC\DAL\Orders.txt";
+        private string dirFolder = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
+        private readonly string users_file_path;
+        private readonly string products_file_path;
+        private readonly string orders_file_path;
 
         public dbContext()
         {
+            users_file_path = $"{dirFolder}/DAL/Users.txt";
+            products_file_path = $"{dirFolder}/DAL/Products.txt";
+            orders_file_path = $"{dirFolder}/DAL/Orders.txt";
             usersRepository = new UserRepository();
             productRepository = new ProductRepository();
             orderRepository = new OrderRepository();
